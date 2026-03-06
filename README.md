@@ -19,3 +19,12 @@ In Java, DSA is implemented using classes, objects, arrays, and built-in collect
 - `add()` / `offer()` – add element  
 - `remove()` / `poll()` – remove element  
 - `peek()` – view front element
+
+## 3. Linked List
+**Concept:** A collection of nodes where each node contains **data** and a **pointer to the next node**.   
+
+**Operations:**  
+- `add()` – add element at end  
+- `add(index, value)` – add element at specific position  
+- `remove()` – remove element  
+- `get(index)` – get element at position
