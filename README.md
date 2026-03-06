@@ -44,3 +44,10 @@ In Java, DSA is implemented using classes, objects, arrays, and built-in collect
 - Bubble Sort – compare adjacent elements repeatedly  
 - Selection Sort – select minimum element and swap  
 - Insertion Sort – insert element at the correct position
+
+## 6. Searching Algorithms
+**Concept:** Find the position of an element in a dataset.  
+
+**Common Searching Algorithms:**  
+- Linear Search – check each element one by one  
+- Binary Search – check middle element (array must be sorted) 
