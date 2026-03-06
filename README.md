@@ -11,3 +11,11 @@ In Java, DSA is implemented using classes, objects, arrays, and built-in collect
 - `push()` – add element  
 - `pop()` – remove element  
 - `peek()` – view top element
+
+## 2. Queue (FIFO)
+**Concept:** First-In-First-Out (FIFO) – the first element added is removed first.  
+
+**Operations:**  
+- `add()` / `offer()` – add element  
+- `remove()` / `poll()` – remove element  
+- `peek()` – view front element
