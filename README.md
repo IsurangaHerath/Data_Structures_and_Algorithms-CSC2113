@@ -36,3 +36,11 @@ In Java, DSA is implemented using classes, objects, arrays, and built-in collect
 - Insert at beginning, end, or specific position  
 - Delete from beginning, end, or specific position  
 - Traverse forward and backward
+
+## 5. Sorting Algorithms
+**Concept:** Arrange data in ascending or descending order.  
+
+**Common Sorting Algorithms:**  
+- Bubble Sort – compare adjacent elements repeatedly  
+- Selection Sort – select minimum element and swap  
+- Insertion Sort – insert element at the correct position
