@@ -28,3 +28,11 @@ In Java, DSA is implemented using classes, objects, arrays, and built-in collect
 - `add(index, value)` – add element at specific position  
 - `remove()` – remove element  
 - `get(index)` – get element at position
+
+## 4. Doubly Linked List
+**Concept:** Each node has **data, next pointer, and previous pointer**.  
+
+**Operations:**  
+- Insert at beginning, end, or specific position  
+- Delete from beginning, end, or specific position  
+- Traverse forward and backward
